@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #dbdbff;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Bungee";
+  color: #8a8aff;
+}
+
+/* Add to the image styling such that:
+- each image is 40% of the screen
+- there is 3px of space between the image and the border
+- there is 5vw of space between the images horizontally
+- there is 3vh of space between the images vertically
+*/
+img {
+  border: 2px #8a8aff dotted;
+  
+}
